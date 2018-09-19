@@ -1,0 +1,3 @@
+Para ejecutarlo deben de estar todos los archivos en la misma carpeta y los dataset en la carpeta Instancias APC
+La ejecución es la misma que en la práctica anterior, testeado sin problemas con python3.5 desde la terminal,
+ejecutar mainTrayectorias.py
